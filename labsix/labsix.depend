@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1700230378 source:c:\users\mande\desktop\iti materils\c programming\study\labsix\main.cpp
+	<iostream>
+	<Point.h>
+	<Shape.h>
+	<Circle.h>
+	<Line.h>
+	<Rectangl.h>
+
+1700230301 c:\users\mande\desktop\iti materils\c programming\study\labsix\include\point.h
+
+1700230355 c:\users\mande\desktop\iti materils\c programming\study\labsix\include\shape.h
+
+1700230843 c:\users\mande\desktop\iti materils\c programming\study\labsix\include\circle.h
+	<graphics.h>
+
+1700230390 c:\users\mande\desktop\iti materils\c programming\study\labsix\include\line.h
+
+1700230394 c:\users\mande\desktop\iti materils\c programming\study\labsix\include\rectangl.h
+

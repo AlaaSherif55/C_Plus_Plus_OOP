@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1700229727 source:c:\users\mande\desktop\iti materils\c programming\study\labseven\src\shape.cpp
+
+1700229762 c:\users\mande\desktop\iti materils\c programming\study\labseven\include\shape.h
+
+1700229075 source:c:\users\mande\desktop\iti materils\c programming\study\labseven\main.cpp
+	<iostream>
+	<Point.h>
+	<Shape.h>
+	<Circle.h>
+	<Line.h>
+	<Rectangl.h>
+
+1700229120 c:\users\mande\desktop\iti materils\c programming\study\labseven\include\point.h
+
+1700229608 c:\users\mande\desktop\iti materils\c programming\study\labseven\include\circle.h
+	<iostream>
+	<graphics.h>
+
+1700229108 c:\users\mande\desktop\iti materils\c programming\study\labseven\include\line.h
+
+1700229145 c:\users\mande\desktop\iti materils\c programming\study\labseven\include\rectangl.h
+
